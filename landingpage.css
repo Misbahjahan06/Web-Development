@@ -50,3 +50,13 @@ button
     transition: background-color 0.3s ease, transform 0.2s ease;
     margin-left: 8%;
 }
+.image-container {
+    position: relative; 
+    display: inline-block; 
+  }
+  
+  .rocket {
+    position: absolute;
+    bottom: 0; 
+    right: 0;
+  }
